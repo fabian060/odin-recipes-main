@@ -1,10 +1,10 @@
-# Project Name
+# Odin-Recipes
 
 > One paragraph statement about the project.
 
- ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&logoSize=auto&labelColor=white) 
+![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&logoSize=auto&labelColor=white) 
 
-![screenshot](./app_screenshot.png)
+![Alt text](Odin-Recipes.PNG)
 
 Additional description about the project and its features.
 
@@ -41,9 +41,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Fabian Andres Mijares Zamora**
 
-- GitHub: [@fabian060](https://github.com/fabian060)
-- Twitter: [@fabian060](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [fabian060](https://github.com/fabian060)
+
+
 
 ## 🤝 Contributing
 
